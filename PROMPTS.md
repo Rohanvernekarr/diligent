@@ -1,8 +1,14 @@
 # Diligent Company Assignment - E-Commerce Dataset Prompts
 
-Prompt 1 - Lines 7-150
-Prompt 2 - Lines 152-271
-prompt 3 - Lines 273-350 
+### Prompt 1  
+Lines **7–150**
+
+### Prompt 2  
+Lines **152–271**
+
+### Prompt 3  
+Lines **273–350**
+
 
 ## Prompt 1: Generate Synthetic E-Commerce Dataset
 
