@@ -2,6 +2,11 @@
 
 **Diligent Company Assignment**
 
+step 1 - python generate_data.py
+step 2 - python ingest_data.py
+step 3 - python run_queries.py
+step 4 - python verify.py
+
 A complete synthetic e-commerce database system with SQLite, featuring realistic data, proper schema design, and comprehensive analytical queries.
 
 ---
