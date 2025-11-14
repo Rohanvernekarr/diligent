@@ -1,0 +1,151 @@
+product_id,product_name,category,brand,price,stock_quantity,supplier_id
+2001,Wireless Bluetooth Headphones,Electronics,TechPro,89.99,150,3001
+2002,Smart Watch Pro,Electronics,TechPro,299.99,75,3001
+2003,Laptop Stand Aluminum,Electronics,DeskMate,45.50,200,3002
+2004,USB-C Hub 7-in-1,Electronics,ConnectPlus,39.99,180,3002
+2005,Mechanical Keyboard RGB,Electronics,TechPro,129.99,95,3001
+2006,Wireless Mouse Ergonomic,Electronics,TechPro,34.99,250,3001
+2007,4K Webcam Pro,Electronics,VisionTech,149.99,60,3003
+2008,Portable SSD 1TB,Electronics,DataStore,119.99,120,3004
+2009,Phone Charging Cable 6ft,Electronics,ConnectPlus,12.99,500,3002
+2010,Screen Protector Tempered Glass,Electronics,GuardTech,9.99,450,3005
+2011,Men's Cotton T-Shirt Navy,Fashion,StyleMax,24.99,300,3006
+2012,Women's Yoga Pants Black,Fashion,ActiveFit,45.99,200,3007
+2013,Running Shoes Men Size 10,Fashion,SportLife,89.99,80,3008
+2014,Leather Wallet Brown,Fashion,LuxLeather,34.99,150,3009
+2015,Sunglasses Polarized,Fashion,SunStyle,59.99,100,3010
+2016,Winter Jacket Insulated,Fashion,ColdGuard,149.99,65,3006
+2017,Denim Jeans Men 32x32,Fashion,DenimCo,54.99,120,3011
+2018,Women's Summer Dress,Fashion,StyleMax,69.99,90,3006
+2019,Sneakers Women Size 8,Fashion,SportLife,79.99,110,3008
+2020,Backpack Travel 40L,Fashion,AdventureGear,89.99,85,3012
+2021,Coffee Maker 12-Cup,Home,BrewMaster,79.99,95,3013
+2022,Blender High Speed,Home,KitchenPro,129.99,70,3014
+2023,Air Purifier HEPA,Home,CleanAir,189.99,55,3015
+2024,Vacuum Cleaner Cordless,Home,CleanSweep,249.99,45,3016
+2025,Throw Pillows Set of 4,Home,HomeComfort,39.99,180,3017
+2026,Area Rug 5x7 Gray,Home,FloorStyle,149.99,40,3017
+2027,Table Lamp LED,Home,LightWorks,45.99,120,3018
+2028,Storage Bins Set of 6,Home,OrganizePro,29.99,200,3017
+2029,Kitchen Knife Set 15-Piece,Home,ChefMaster,99.99,75,3014
+2030,Non-Stick Cookware Set,Home,KitchenPro,179.99,60,3014
+2031,Yoga Mat Extra Thick,Sports,FlexFit,29.99,250,3007
+2032,Dumbbell Set 20lb,Sports,IronLife,69.99,100,3019
+2033,Resistance Bands Set,Sports,FlexFit,24.99,180,3007
+2034,Exercise Bike Stationary,Sports,FitCycle,399.99,25,3019
+2035,Basketball Official Size,Sports,ProSport,29.99,150,3008
+2036,Tennis Racket Carbon Fiber,Sports,AcePlay,119.99,70,3020
+2037,Swimming Goggles Anti-Fog,Sports,AquaVision,19.99,200,3020
+2038,Camping Tent 4-Person,Sports,AdventureGear,199.99,35,3012
+2039,Hiking Boots Waterproof,Sports,TrailBlaze,139.99,65,3012
+2040,Bicycle Helmet Adjustable,Sports,SafeRide,49.99,120,3008
+2041,Face Moisturizer SPF 30,Beauty,GlowSkin,34.99,180,3021
+2042,Shampoo Organic 16oz,Beauty,NaturalHair,18.99,250,3021
+2043,Makeup Brush Set 12-Piece,Beauty,BeautyTools,44.99,140,3021
+2044,Hair Dryer Ionic,Beauty,SalonPro,79.99,90,3021
+2045,Electric Toothbrush,Beauty,SmileBright,59.99,110,3021
+2046,Perfume Women 3.4oz,Beauty,Essence,89.99,80,3021
+2047,Nail Polish Set 12 Colors,Beauty,ColorMe,24.99,160,3021
+2048,Face Mask Sheet 20-Pack,Beauty,GlowSkin,29.99,200,3021
+2049,Body Lotion Coconut 12oz,Beauty,NaturalCare,16.99,220,3021
+2050,Lip Balm Set 6-Pack,Beauty,SoftLips,12.99,280,3021
+2051,Fiction Novel Bestseller,Books,ReadMore,14.99,200,3022
+2052,Cookbook Mediterranean,Books,TasteBooks,24.99,120,3022
+2053,Self-Help Book Motivation,Books,InspireReads,18.99,150,3022
+2054,Children's Picture Book,Books,KidsCorner,12.99,180,3022
+2055,Science Textbook College,Books,AcademicPress,89.99,60,3022
+2056,Biography Historical Figure,Books,LifeStories,22.99,100,3022
+2057,Travel Guide Europe,Books,WanderBooks,19.99,90,3022
+2058,Mystery Thriller Novel,Books,PageTurner,16.99,160,3022
+2059,Poetry Collection Classic,Books,VerseLine,13.99,110,3022
+2060,Business Strategy Book,Books,SuccessReads,29.99,85,3022
+2061,Tablet 10-inch 64GB,Electronics,TechPro,249.99,70,3001
+2062,Smartphone Case Rugged,Electronics,GuardTech,24.99,300,3005
+2063,Power Bank 20000mAh,Electronics,PowerPlus,49.99,150,3002
+2064,Bluetooth Speaker Portable,Electronics,SoundWave,69.99,120,3003
+2065,Gaming Mouse RGB,Electronics,GameGear,59.99,140,3001
+2066,Monitor 27-inch 4K,Electronics,VisionTech,399.99,40,3003
+2067,Router WiFi 6,Electronics,NetSpeed,129.99,85,3002
+2068,External Hard Drive 2TB,Electronics,DataStore,89.99,100,3004
+2069,Laptop Backpack Waterproof,Electronics,TravelTech,54.99,110,3002
+2070,Smart Light Bulb RGB,Electronics,LightSmart,29.99,200,3018
+2071,Women's Handbag Leather,Fashion,LuxLeather,129.99,75,3009
+2072,Men's Dress Shoes Black,Fashion,ClassicStep,99.99,90,3009
+2073,Baseball Cap Adjustable,Fashion,SportStyle,19.99,220,3008
+2074,Scarf Cashmere Blend,Fashion,WarmWear,44.99,130,3006
+2075,Belt Leather Black,Fashion,LuxLeather,29.99,180,3009
+2076,Socks Cotton 12-Pack,Fashion,ComfortFeet,24.99,250,3006
+2077,Watch Analog Leather Band,Fashion,TimePiece,149.99,60,3010
+2078,Tie Silk Blue,Fashion,DressWell,34.99,140,3009
+2079,Gloves Winter Touchscreen,Fashion,ColdGuard,29.99,160,3006
+2080,Slippers Memory Foam,Fashion,HomeComfy,34.99,190,3006
+2081,Toaster 4-Slice,Home,BrewMaster,59.99,105,3013
+2082,Microwave 1.1 Cu Ft,Home,KitchenPro,149.99,50,3014
+2083,Iron Steam Professional,Home,CleanPress,69.99,95,3013
+2084,Curtains Blackout 84-inch,Home,WindowStyle,49.99,120,3017
+2085,Bedding Set Queen,Home,SleepWell,89.99,70,3017
+2086,Towel Set 6-Piece,Home,BathLux,39.99,150,3017
+2087,Picture Frames Set of 5,Home,MemoryWall,34.99,170,3017
+2088,Wall Clock Modern,Home,TimeCraft,29.99,140,3018
+2089,Candles Scented Set of 3,Home,AromaHome,24.99,200,3018
+2090,Dish Rack Stainless Steel,Home,KitchenOrganize,39.99,130,3014
+2091,Jump Rope Adjustable,Sports,FlexFit,14.99,220,3007
+2092,Foam Roller Massage,Sports,RecoverPro,29.99,160,3007
+2093,Water Bottle Insulated 32oz,Sports,HydroMax,24.99,240,3019
+2094,Gym Bag Duffel Large,Sports,ActiveCarry,44.99,110,3019
+2095,Protein Shaker Bottle,Sports,NutriFit,12.99,280,3019
+2096,Fitness Tracker Watch,Sports,HealthMonitor,89.99,95,3019
+2097,Soccer Ball Official Size,Sports,ProSport,34.99,130,3008
+2098,Golf Club Set Beginner,Sports,SwingPro,299.99,30,3020
+2099,Fishing Rod Telescopic,Sports,CatchMaster,79.99,70,3020
+2100,Skateboard Complete,Sports,RideStreet,69.99,85,3008
+2101,Serum Vitamin C,Beauty,GlowSkin,39.99,160,3021
+2102,Conditioner Repair 16oz,Beauty,NaturalHair,18.99,230,3021
+2103,Eyeliner Waterproof,Beauty,EyeDefine,16.99,190,3021
+2104,Foundation Liquid SPF 15,Beauty,FaceFlawless,42.99,120,3021
+2105,Bath Bombs Set of 12,Beauty,RelaxSpa,29.99,170,3021
+2106,Razor Electric Men,Beauty,ShaveSmooth,89.99,80,3021
+2107,Hand Cream Set 6-Pack,Beauty,SoftHands,24.99,200,3021
+2108,Massage Oil Lavender 8oz,Beauty,RelaxTherapy,19.99,150,3021
+2109,Hair Straightener Ceramic,Beauty,SalonPro,69.99,90,3021
+2110,Sunscreen SPF 50 8oz,Beauty,SunGuard,22.99,210,3021
+2111,Science Fiction Anthology,Books,GalaxyReads,19.99,130,3022
+2112,History Book World War,Books,PastPages,26.99,95,3022
+2113,Comic Book Collection,Books,HeroPress,34.99,110,3022
+2114,Art Book Photography,Books,VisionArt,44.99,70,3022
+2115,Dictionary English Deluxe,Books,WordWise,39.99,80,3022
+2116,Atlas World Maps,Books,GeoBooks,29.99,90,3022
+2117,Graphic Novel Fantasy,Books,DrawnTales,24.99,120,3022
+2118,Memoir Celebrity,Books,StarStories,21.99,100,3022
+2119,Philosophy Classic Works,Books,ThinkDeep,27.99,85,3022
+2120,Language Learning Spanish,Books,LinguaLearn,32.99,105,3022
+2121,Smart Doorbell Camera,Electronics,HomeSafe,159.99,65,3003
+2122,Keyboard Wireless Compact,Electronics,TechPro,49.99,170,3001
+2123,Earbuds True Wireless,Electronics,SoundWave,79.99,130,3003
+2124,Drone With Camera 4K,Electronics,SkyView,499.99,20,3003
+2125,Printer Wireless All-in-One,Electronics,PrintPro,199.99,45,3004
+2126,Graphics Tablet Drawing,Electronics,ArtDigital,149.99,55,3001
+2127,Smart Thermostat WiFi,Electronics,ClimateControl,179.99,50,3018
+2128,Security Camera Outdoor,Electronics,HomeSafe,129.99,70,3003
+2129,Cable HDMI 10ft,Electronics,ConnectPlus,14.99,350,3002
+2130,Flash Drive 128GB,Electronics,DataStore,24.99,280,3004
+2131,Dress Casual Women,Fashion,StyleMax,59.99,105,3006
+2132,Polo Shirt Men Cotton,Fashion,ClassicWear,39.99,160,3006
+2133,Shorts Athletic Men,Fashion,SportLife,34.99,180,3008
+2134,Boots Ankle Women,Fashion,FootFashion,89.99,75,3009
+2135,Hoodie Fleece Unisex,Fashion,ComfortWear,49.99,140,3006
+2136,Leggings High Waist,Fashion,ActiveFit,39.99,190,3007
+2137,Cardigan Sweater Women,Fashion,KnitStyle,54.99,100,3006
+2138,Pajama Set Cotton,Fashion,SleepComfy,44.99,130,3006
+2139,Swimsuit One-Piece,Fashion,BeachWave,49.99,110,3010
+2140,Robe Bathrobe Plush,Fashion,HomeComfy,59.99,95,3006
+2141,Slow Cooker 6-Quart,Home,KitchenPro,69.99,85,3014
+2142,Food Processor 12-Cup,Home,ChefMaster,119.99,60,3014
+2143,Electric Kettle 1.7L,Home,BrewMaster,39.99,140,3013
+2144,Cutting Board Bamboo Large,Home,KitchenEssentials,24.99,190,3014
+2145,Spice Rack With Spices,Home,FlavorOrganize,34.99,120,3014
+2146,Shower Curtain Waterproof,Home,BathStyle,19.99,210,3017
+2147,Bath Mat Memory Foam,Home,BathLux,24.99,180,3017
+2148,Laundry Basket Collapsible,Home,OrganizePro,29.99,150,3017
+2149,Coat Rack Stand,Home,EntryWay,44.99,100,3017
+2150,Mirror Wall Mounted Large,Home,ReflectStyle,79.99,65,3017

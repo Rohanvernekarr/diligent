@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,phone,registration_date,country,city,postal_code
+1001,Emma,Johnson,emma.johnson@example.com,+1-555-123-4501,2023-03-15,USA,New York,10001
+1002,Liam,Smith,liam.smith@testmail.net,+44-20-7946-0958,2023-04-22,UK,London,SW1A 1AA
+1003,Sophia,Williams,sophia.williams@example.com,+1-555-234-5612,2023-05-10,USA,Los Angeles,90001
+1004,Noah,Brown,noah.brown@fakemail.com,+1-416-555-0123,2023-06-18,Canada,Toronto,M5H 2N2
+1005,Olivia,Jones,olivia.jones@testmail.net,+61-2-9876-5432,2023-07-25,Australia,Sydney,2000
+1006,William,Garcia,william.garcia@example.com,+49-30-1234567,2023-08-30,Germany,Berlin,10115
+1007,Ava,Martinez,ava.martinez@fakemail.com,+33-1-42-86-82-00,2023-09-14,France,Paris,75001
+1008,James,Rodriguez,james.rodriguez@example.com,+1-555-345-6723,2023-10-20,USA,Chicago,60601
+1009,Isabella,Hernandez,isabella.hernandez@testmail.net,+1-555-456-7834,2023-11-05,USA,Houston,77001
+1010,Oliver,Lopez,oliver.lopez@fakemail.com,+44-161-496-0000,2023-12-12,UK,Manchester,M1 1AD
+1011,Charlotte,Gonzalez,charlotte.gonzalez@example.com,+1-555-567-8945,2024-01-08,USA,Phoenix,85001
+1012,Elijah,Wilson,elijah.wilson@testmail.net,+1-604-555-0147,2024-02-14,Canada,Vancouver,V6B 1A1
+1013,Amelia,Anderson,amelia.anderson@fakemail.com,+61-3-9876-5432,2024-03-22,Australia,Melbourne,3000
+1014,Benjamin,Thomas,benjamin.thomas@example.com,+49-89-1234567,2024-04-18,Germany,Munich,80331
+1015,Mia,Taylor,mia.taylor@testmail.net,+33-4-91-13-89-00,2024-05-25,France,Marseille,13001
+1016,Lucas,Moore,lucas.moore@fakemail.com,+1-555-678-9056,2024-06-30,USA,Philadelphia,19101
+1017,Harper,Jackson,harper.jackson@example.com,+1-555-789-0167,2024-07-15,USA,San Antonio,78201
+1018,Alexander,Martin,alexander.martin@testmail.net,+44-113-234-5678,2024-08-20,UK,Leeds,LS1 1BA
+1019,Evelyn,Lee,evelyn.lee@fakemail.com,+1-555-890-1278,2024-09-10,USA,San Diego,92101
+1020,Michael,Perez,michael.perez@example.com,+1-403-555-0189,2024-10-05,Canada,Calgary,T2P 0L1
+1021,Abigail,Thompson,abigail.thompson@testmail.net,+61-7-3876-5432,2024-11-12,Australia,Brisbane,4000
+1022,Ethan,White,ethan.white@fakemail.com,+49-40-1234567,2024-12-01,Germany,Hamburg,20095
+1023,Emily,Harris,emily.harris@example.com,+33-5-56-00-66-00,2025-01-15,France,Bordeaux,33000
+1024,Daniel,Sanchez,daniel.sanchez@testmail.net,+1-555-901-2389,2025-02-20,USA,Dallas,75201
+1025,Elizabeth,Clark,elizabeth.clark@fakemail.com,+1-555-012-3490,2025-03-10,USA,San Jose,95101
+1026,Matthew,Ramirez,matthew.ramirez@example.com,+44-20-7946-0234,2025-04-05,UK,Birmingham,B1 1AA
+1027,Sofia,Lewis,sofia.lewis@testmail.net,+1-512-555-0201,2025-05-12,USA,Austin,78701
+1028,David,Robinson,david.robinson@fakemail.com,+1-514-555-0212,2025-06-18,Canada,Montreal,H2Y 1C6
+1029,Avery,Walker,avery.walker@example.com,+61-8-9876-5432,2025-07-25,Australia,Perth,6000
+1030,Joseph,Young,joseph.young@testmail.net,+49-351-1234567,2025-08-30,Germany,Dresden,01067
+1031,Scarlett,Allen,scarlett.allen@fakemail.com,+1-555-123-4601,2023-04-10,USA,Jacksonville,32099
+1032,Henry,King,henry.king@example.com,+44-141-946-7890,2023-05-20,UK,Glasgow,G1 1AA
+1033,Grace,Wright,grace.wright@testmail.net,+1-555-234-5702,2023-06-25,USA,Fort Worth,76101
+1034,Sebastian,Scott,sebastian.scott@fakemail.com,+1-780-555-0323,2023-07-30,Canada,Edmonton,T5J 0H3
+1035,Chloe,Torres,chloe.torres@example.com,+61-2-9876-1234,2023-08-15,Australia,Canberra,2600
+1036,Jack,Nguyen,jack.nguyen@testmail.net,+49-711-1234567,2023-09-20,Germany,Stuttgart,70173
+1037,Luna,Hill,luna.hill@fakemail.com,+33-3-20-12-34-56,2023-10-25,France,Lille,59000
+1038,Owen,Flores,owen.flores@example.com,+1-555-345-6803,2023-11-30,USA,Columbus,43085
+1039,Lily,Green,lily.green@testmail.net,+1-555-456-7914,2024-01-05,USA,Charlotte,28201
+1040,Wyatt,Adams,wyatt.adams@fakemail.com,+44-117-926-1234,2024-02-10,UK,Bristol,BS1 1AA
+1041,Zoey,Nelson,zoey.nelson@example.com,+1-555-567-8025,2024-03-15,USA,Indianapolis,46201
+1042,John,Baker,john.baker@testmail.net,+1-613-555-0434,2024-04-20,Canada,Ottawa,K1A 0A6
+1043,Aria,Hall,aria.hall@fakemail.com,+61-8-8876-5432,2024-05-25,Australia,Adelaide,5000
+1044,Luke,Rivera,luke.rivera@example.com,+49-221-1234567,2024-06-30,Germany,Cologne,50667
+1045,Penelope,Campbell,penelope.campbell@testmail.net,+33-4-72-10-30-30,2024-07-15,France,Lyon,69001
+1046,Isaac,Mitchell,isaac.mitchell@fakemail.com,+1-555-678-9136,2024-08-20,USA,Seattle,98101
+1047,Layla,Carter,layla.carter@example.com,+1-555-789-0247,2024-09-25,USA,Denver,80201
+1048,Ryan,Roberts,ryan.roberts@testmail.net,+44-151-707-1234,2024-10-30,UK,Liverpool,L1 1AA
+1049,Nora,Gomez,nora.gomez@fakemail.com,+1-555-890-1358,2024-11-15,USA,Boston,02101
+1050,Gabriel,Phillips,gabriel.phillips@example.com,+1-905-555-0545,2024-12-20,Canada,Hamilton,L8N 3Z1
+1051,Hannah,Evans,hannah.evans@testmail.net,+61-3-9876-1234,2025-01-10,Australia,Hobart,7000
+1052,Carter,Turner,carter.turner@fakemail.com,+49-69-1234567,2025-02-15,Germany,Frankfurt,60311
+1053,Victoria,Collins,victoria.collins@example.com,+33-1-42-86-12-34,2025-03-20,France,Nice,06000
+1054,Julian,Edwards,julian.edwards@testmail.net,+1-555-901-2469,2025-04-25,USA,Nashville,37201
+1055,Madison,Stewart,madison.stewart@fakemail.com,+1-555-012-3570,2025-05-30,USA,El Paso,79901
+1056,Leo,Sanchez,leo.sanchez@example.com,+44-191-232-1234,2025-06-15,UK,Newcastle,NE1 1AA
+1057,Aurora,Morris,aurora.morris@testmail.net,+1-555-123-4681,2025-07-20,USA,Washington,20001
+1058,Jayden,Rogers,jayden.rogers@fakemail.com,+1-403-555-0656,2025-08-25,Canada,Winnipeg,R3C 0A5
+1059,Stella,Reed,stella.reed@example.com,+61-2-9876-7890,2025-09-30,Australia,Newcastle,2300
+1060,Nathan,Cook,nathan.cook@testmail.net,+49-511-1234567,2025-10-15,Germany,Hannover,30159
+1061,Violet,Morgan,violet.morgan@fakemail.com,+1-555-234-5782,2023-05-12,USA,Las Vegas,89101
+1062,Aaron,Bell,aaron.bell@example.com,+44-131-225-1234,2023-06-18,UK,Edinburgh,EH1 1AA
+1063,Hazel,Murphy,hazel.murphy@testmail.net,+1-555-345-6893,2023-07-22,USA,Portland,97201
+1064,Lincoln,Bailey,lincoln.bailey@fakemail.com,+1-250-555-0767,2023-08-28,Canada,Victoria,V8W 1P8
+1065,Eleanor,Rivera,eleanor.rivera@example.com,+61-7-3876-1234,2023-09-30,Australia,Gold Coast,4217
+1066,Christopher,Cooper,christopher.cooper@testmail.net,+49-201-1234567,2023-10-15,Germany,Essen,45127
+1067,Addison,Richardson,addison.richardson@fakemail.com,+33-2-40-12-34-56,2023-11-20,France,Nantes,44000
+1068,Joshua,Cox,joshua.cox@example.com,+1-555-456-7904,2023-12-25,USA,Oklahoma City,73101
+1069,Natalie,Howard,natalie.howard@testmail.net,+1-555-567-8015,2024-01-30,USA,Louisville,40201
+1070,Samuel,Ward,samuel.ward@fakemail.com,+44-114-272-1234,2024-02-28,UK,Sheffield,S1 1AA
+1071,Audrey,Torres,audrey.torres@example.com,+1-555-678-9126,2024-03-30,USA,Milwaukee,53201
+1072,Andrew,Peterson,andrew.peterson@testmail.net,+1-506-555-0878,2024-04-28,Canada,Fredericton,E3B 1C4
+1073,Brooklyn,Gray,brooklyn.gray@fakemail.com,+61-8-6876-5432,2024-05-30,Australia,Darwin,0800
+1074,Christian,Ramirez,christian.ramirez@example.com,+49-231-1234567,2024-06-28,Germany,Dortmund,44135
+1075,Bella,James,bella.james@testmail.net,+33-5-61-12-34-56,2024-07-30,France,Toulouse,31000
+1076,Jonathan,Watson,jonathan.watson@fakemail.com,+1-555-789-0237,2024-08-28,USA,Albuquerque,87101
+1077,Claire,Brooks,claire.brooks@example.com,+1-555-890-1348,2024-09-30,USA,Tucson,85701
+1078,Dylan,Kelly,dylan.kelly@testmail.net,+44-29-2087-1234,2024-10-28,UK,Cardiff,CF10 1AA
+1079,Skylar,Sanders,skylar.sanders@fakemail.com,+1-555-901-2459,2024-11-30,USA,Fresno,93650
+1080,Thomas,Price,thomas.price@example.com,+1-709-555-0989,2024-12-28,Canada,St Johns,A1C 1A1
+1081,Paisley,Bennett,paisley.bennett@testmail.net,+61-2-9876-5678,2025-01-30,Australia,Wollongong,2500
+1082,Charles,Wood,charles.wood@fakemail.com,+49-911-1234567,2025-02-28,Germany,Nuremberg,90402
+1083,Anna,Barnes,anna.barnes@example.com,+33-4-91-13-12-34,2025-03-30,France,Montpellier,34000
+1084,Eli,Ross,eli.ross@testmail.net,+1-555-012-3560,2025-04-28,USA,Sacramento,94203
+1085,Sarah,Henderson,sarah.henderson@fakemail.com,+1-555-123-4671,2025-05-30,USA,Mesa,85201
+1086,Isaiah,Coleman,isaiah.coleman@example.com,+44-23-8063-1234,2025-06-28,UK,Southampton,SO14 0AA
+1087,Kennedy,Jenkins,kennedy.jenkins@testmail.net,+1-555-234-5772,2025-07-30,USA,Kansas City,64101
+1088,Caleb,Perry,caleb.perry@fakemail.com,+1-519-555-0190,2025-08-28,Canada,London,N6A 1A1
+1089,Aaliyah,Powell,aaliyah.powell@example.com,+61-3-9876-9012,2025-09-30,Australia,Geelong,3220
+1090,Josiah,Long,josiah.long@testmail.net,+49-421-1234567,2025-10-28,Germany,Bremen,28195
+1091,Genesis,Patterson,genesis.patterson@fakemail.com,+1-555-345-6883,2023-06-10,USA,Atlanta,30301
+1092,Hunter,Hughes,hunter.hughes@example.com,+44-115-924-1234,2023-07-15,UK,Nottingham,NG1 1AA
+1093,Savannah,Flores,savannah.flores@testmail.net,+1-555-456-7994,2023-08-20,USA,Miami,33101
+1094,Colton,Washington,colton.washington@fakemail.com,+1-204-555-0901,2023-09-25,Canada,Regina,S4P 0A1
+1095,Allison,Butler,allison.butler@example.com,+61-8-8876-1234,2023-10-30,Australia,Cairns,4870
+1096,Levi,Simmons,levi.simmons@testmail.net,+49-228-1234567,2023-11-28,Germany,Bonn,53111
+1097,Ivy,Foster,ivy.foster@fakemail.com,+33-3-88-12-34-56,2023-12-30,France,Strasbourg,67000
+1098,Jaxon,Gonzales,jaxon.gonzales@example.com,+1-555-567-8005,2024-01-28,USA,Long Beach,90801
+1099,Alice,Bryant,alice.bryant@testmail.net,+1-555-678-9116,2024-02-28,USA,Oakland,94601
+1100,Hudson,Alexander,hudson.alexander@fakemail.com,+44-121-643-1234,2024-03-28,UK,Coventry,CV1 1AA

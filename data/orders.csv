@@ -1,0 +1,251 @@
+order_id,customer_id,order_date,order_status,total_amount,shipping_address,payment_method
+4001,1001,2024-04-15,Delivered,89.97,"123 Broadway, New York, 10001, USA",Credit Card
+4002,1002,2024-04-20,Delivered,509.96,"45 Oxford St, London, SW1A 1AA, UK",PayPal
+4003,1003,2024-05-02,Shipped,645.91,"789 Sunset Blvd, Los Angeles, 90001, USA",Credit Card
+4004,1004,2024-05-10,Delivered,89.98,"56 King St, Toronto, M5H 2N2, Canada",Debit Card
+4005,1005,2024-05-18,Delivered,38.97,"88 George St, Sydney, 2000, Australia",Credit Card
+4006,1006,2024-06-01,Cancelled,94.97,"12 Unter den Linden, Berlin, 10115, Germany",Bank Transfer
+4007,1007,2024-06-08,Delivered,399.92,"23 Champs-Élysées, Paris, 75001, France",Credit Card
+4008,1008,2024-06-15,Shipped,276.94,"456 Michigan Ave, Chicago, 60601, USA",PayPal
+4009,1009,2024-06-22,Delivered,59.97,"789 Main St, Houston, 77001, USA",Credit Card
+4010,1010,2024-07-01,Delivered,589.93,"34 Deansgate, Manchester, M1 1AD, UK",Debit Card
+4011,1011,2024-07-10,Delivered,314.92,"567 Central Ave, Phoenix, 85001, USA",Credit Card
+4012,1012,2024-07-18,Shipped,174.98,"78 Granville St, Vancouver, V6B 1A1, Canada",PayPal
+4013,1013,2024-07-25,Delivered,154.96,"901 Collins St, Melbourne, 3000, Australia",Credit Card
+4014,1014,2024-08-02,Delivered,399.92,"45 Marienplatz, Munich, 80331, Germany",Bank Transfer
+4015,1015,2024-08-10,Delivered,769.92,"67 La Canebière, Marseille, 13001, France",Credit Card
+4016,1016,2024-08-18,Cancelled,239.95,"234 Market St, Philadelphia, 19101, USA",PayPal
+4017,1017,2024-08-25,Shipped,37.98,"345 Commerce St, San Antonio, 78201, USA",Credit Card
+4018,1018,2024-09-01,Delivered,1295.91,"89 Briggate, Leeds, LS1 1BA, UK",Debit Card
+4019,1019,2024-09-08,Delivered,206.93,"678 Broadway, San Diego, 92101, USA",Credit Card
+4020,1020,2024-09-15,Delivered,609.91,"12 Stephen Ave, Calgary, T2P 0L1, Canada",PayPal
+4021,1021,2024-09-22,Shipped,69.98,"234 Queen St, Brisbane, 4000, Australia",Credit Card
+4022,1022,2024-09-29,Delivered,449.97,"56 Reeperbahn, Hamburg, 20095, Germany",Bank Transfer
+4023,1023,2024-10-05,Delivered,989.91,"78 Quai des Chartrons, Bordeaux, 33000, France",Credit Card
+4024,1024,2024-10-12,Delivered,219.94,"890 Elm St, Dallas, 75201, USA",PayPal
+4025,1025,2024-10-19,Shipped,104.97,"123 First St, San Jose, 95101, USA",Credit Card
+4026,1026,2024-10-26,Delivered,159.98,"45 Bull St, Birmingham, B1 1AA, UK",Debit Card
+4027,1027,2024-11-01,Delivered,74.97,"567 Congress Ave, Austin, 78701, USA",Credit Card
+4028,1028,2024-11-08,Cancelled,439.94,"89 Rue Saint-Paul, Montreal, H2Y 1C6, Canada",PayPal
+4029,1001,2024-05-20,Delivered,79.48,"123 Broadway, New York, 10001, USA",Credit Card
+4030,1002,2024-06-12,Delivered,59.98,"45 Oxford St, London, SW1A 1AA, UK",PayPal
+4031,1003,2024-07-04,Shipped,79.98,"789 Sunset Blvd, Los Angeles, 90001, USA",Credit Card
+4032,1004,2024-07-22,Delivered,1194.92,"56 King St, Toronto, M5H 2N2, Canada",Debit Card
+4033,1005,2024-08-14,Delivered,94.97,"88 George St, Sydney, 2000, Australia",Credit Card
+4034,1006,2024-09-05,Delivered,225.95,"12 Unter den Linden, Berlin, 10115, Germany",Bank Transfer
+4035,1007,2024-09-20,Delivered,599.98,"23 Champs-Élysées, Paris, 75001, France",Credit Card
+4036,1008,2024-10-08,Shipped,140.94,"456 Michigan Ave, Chicago, 60601, USA",PayPal
+4037,1009,2024-10-25,Delivered,1004.93,"789 Main St, Houston, 77001, USA",Credit Card
+4038,1010,2024-11-05,Delivered,601.89,"34 Deansgate, Manchester, M1 1AD, UK",Debit Card
+4039,1011,2024-06-18,Delivered,144.95,"567 Central Ave, Phoenix, 85001, USA",Credit Card
+4040,1012,2024-07-30,Delivered,444.95,"78 Granville St, Vancouver, V6B 1A1, Canada",PayPal
+4041,1013,2024-08-22,Shipped,619.89,"901 Collins St, Melbourne, 3000, Australia",Credit Card
+4042,1014,2024-09-10,Delivered,149.95,"45 Marienplatz, Munich, 80331, Germany",Bank Transfer
+4043,1015,2024-10-02,Delivered,394.94,"67 La Canebière, Marseille, 13001, France",Credit Card
+4044,1016,2024-10-20,Delivered,389.92,"234 Market St, Philadelphia, 19101, USA",PayPal
+4045,1017,2024-11-03,Shipped,729.91,"345 Commerce St, San Antonio, 78201, USA",Credit Card
+4046,1018,2024-05-28,Delivered,219.97,"89 Briggate, Leeds, LS1 1BA, UK",Debit Card
+4047,1019,2024-06-25,Delivered,102.98,"678 Broadway, San Diego, 92101, USA",Credit Card
+4048,1020,2024-07-16,Delivered,664.93,"12 Stephen Ave, Calgary, T2P 0L1, Canada",PayPal
+4049,1021,2024-08-08,Shipped,1444.88,"234 Queen St, Brisbane, 4000, Australia",Credit Card
+4050,1031,2024-04-18,Delivered,902.91,"567 Park St, Jacksonville, 32099, USA",Credit Card
+4051,1032,2024-05-05,Delivered,544.92,"89 Sauchiehall St, Glasgow, G1 1AA, UK",PayPal
+4052,1033,2024-05-22,Shipped,269.97,"234 Main St, Fort Worth, 76101, USA",Credit Card
+4053,1034,2024-06-10,Delivered,129.96,"45 Jasper Ave, Edmonton, T5J 0H3, Canada",Debit Card
+4054,1035,2024-06-28,Delivered,299.99,"78 Northbourne Ave, Canberra, 2600, Australia",Credit Card
+4055,1036,2024-07-14,Delivered,49.98,"12 Königstraße, Stuttgart, 70173, Germany",Bank Transfer
+4056,1037,2024-08-01,Cancelled,154.95,"34 Rue Faidherbe, Lille, 59000, France",Credit Card
+4057,1038,2024-08-19,Delivered,625.91,"678 Broad St, Columbus, 43085, USA",PayPal
+4058,1039,2024-09-03,Shipped,554.94,"890 Trade St, Charlotte, 28201, USA",Credit Card
+4059,1040,2024-09-18,Delivered,289.91,"45 Park St, Bristol, BS1 1AA, UK",Debit Card
+4060,1041,2024-10-01,Delivered,524.93,"123 Monument Circle, Indianapolis, 46201, USA",Credit Card
+4061,1042,2024-10-15,Delivered,457.92,"56 Wellington St, Ottawa, K1A 0A6, Canada",PayPal
+4062,1043,2024-10-30,Shipped,489.93,"89 King William St, Adelaide, 5000, Australia",Credit Card
+4063,1044,2024-11-10,Delivered,509.92,"23 Hohe Straße, Cologne, 50667, Germany",Bank Transfer
+4064,1045,2024-05-15,Delivered,162.96,"45 Rue de la République, Lyon, 69001, France",Credit Card
+4065,1046,2024-06-02,Delivered,2039.88,"789 Pike St, Seattle, 98101, USA",PayPal
+4066,1047,2024-06-20,Shipped,598.92,"567 16th St, Denver, 80201, USA",Credit Card
+4067,1048,2024-07-08,Delivered,495.91,"89 Bold St, Liverpool, L1 1AA, UK",Debit Card
+4068,1049,2024-07-26,Delivered,213.93,"234 Newbury St, Boston, 02101, USA",Credit Card
+4069,1050,2024-08-12,Delivered,159.95,"45 James St N, Hamilton, L8N 3Z1, Canada",PayPal
+4070,1051,2024-08-30,Shipped,959.91,"78 Elizabeth St, Hobart, 7000, Australia",Credit Card
+4071,1052,2024-09-14,Delivered,1104.91,"12 Zeil, Frankfurt, 60311, Germany",Bank Transfer
+4072,1053,2024-09-28,Delivered,1949.86,"34 Promenade des Anglais, Nice, 06000, France",Credit Card
+4073,1054,2024-10-10,Delivered,419.95,"567 Broadway, Nashville, 37201, USA",PayPal
+4074,1055,2024-10-24,Shipped,284.95,"890 Mesa St, El Paso, 79901, USA",Credit Card
+4075,1056,2024-11-06,Delivered,358.92,"45 Northumberland St, Newcastle, NE1 1AA, UK",Debit Card
+4076,1031,2024-06-05,Delivered,139.98,"567 Park St, Jacksonville, 32099, USA",Credit Card
+4077,1032,2024-07-12,Delivered,506.92,"89 Sauchiehall St, Glasgow, G1 1AA, UK",PayPal
+4078,1033,2024-08-03,Shipped,262.93,"234 Main St, Fort Worth, 76101, USA",Credit Card
+4079,1034,2024-08-28,Delivered,509.95,"45 Jasper Ave, Edmonton, T5J 0H3, Canada",Debit Card
+4080,1035,2024-09-22,Delivered,421.90,"78 Northbourne Ave, Canberra, 2600, Australia",Credit Card
+4081,1061,2024-06-15,Delivered,599.98,"345 Las Vegas Blvd, Las Vegas, 89101, USA",Credit Card
+4082,1062,2024-07-03,Delivered,104.98,"67 Princes St, Edinburgh, EH1 1AA, UK",PayPal
+4083,1063,2024-07-21,Shipped,907.88,"890 SW Broadway, Portland, 97201, USA",Credit Card
+4084,1064,2024-08-10,Delivered,569.92,"123 Government St, Victoria, V8W 1P8, Canada",Debit Card
+4085,1065,2024-08-28,Delivered,134.97,"456 Gold Coast Hwy, Gold Coast, 4217, Australia",Credit Card
+4086,1066,2024-09-15,Delivered,366.92,"78 Kettwiger Str, Essen, 45127, Germany",Bank Transfer
+4087,1067,2024-10-03,Cancelled,89.99,"90 Rue Crébillon, Nantes, 44000, France",Credit Card
+4088,1068,2024-10-22,Delivered,794.90,"234 Reno Ave, Oklahoma City, 73101, USA",PayPal
+4089,1069,2024-11-08,Shipped,224.96,"567 Main St, Louisville, 40201, USA",Credit Card
+4090,1070,2024-05-25,Delivered,339.95,"89 Fargate, Sheffield, S1 1AA, UK",Debit Card
+4091,1071,2024-06-18,Delivered,119.99,"123 Wisconsin Ave, Milwaukee, 53201, USA",Credit Card
+4092,1072,2024-07-10,Delivered,520.90,"45 Queen St, Fredericton, E3B 1C4, Canada",PayPal
+4093,1073,2024-08-01,Shipped,351.94,"78 Mitchell St, Darwin, 0800, Australia",Credit Card
+4094,1074,2024-08-25,Delivered,316.98,"12 Westenhellweg, Dortmund, 44135, Germany",Bank Transfer
+4095,1075,2024-09-12,Delivered,24.99,"34 Rue d'Alsace, Toulouse, 31000, France",Credit Card
+4096,1076,2024-09-30,Delivered,849.90,"567 Central Ave, Albuquerque, 87101, USA",PayPal
+4097,1077,2024-10-18,Shipped,78.95,"890 Broadway, Tucson, 85701, USA",Credit Card
+4098,1078,2024-11-04,Delivered,559.92,"45 St Mary St, Cardiff, CF10 1AA, UK",Debit Card
+4099,1079,2024-06-08,Delivered,557.90,"123 Fulton St, Fresno, 93650, USA",Credit Card
+4100,1080,2024-07-02,Delivered,674.94,"56 Water St, St Johns, A1C 1A1, Canada",PayPal
+4101,1081,2024-07-28,Shipped,209.94,"89 Crown St, Wollongong, 2500, Australia",Credit Card
+4102,1082,2024-08-20,Delivered,545.48,"23 Karolinenstraße, Nuremberg, 90402, Germany",Bank Transfer
+4103,1083,2024-09-08,Delivered,460.92,"45 Rue Foch, Montpellier, 34000, France",Credit Card
+4104,1084,2024-09-26,Delivered,254.96,"678 K St, Sacramento, 94203, USA",PayPal
+4105,1085,2024-10-14,Shipped,332.89,"890 Main St, Mesa, 85201, USA",Credit Card
+4106,1086,2024-11-01,Delivered,307.97,"45 Above Bar St, Southampton, SO14 0AA, UK",Debit Card
+4107,1087,2024-06-22,Delivered,21.99,"123 Main St, Kansas City, 64101, USA",Credit Card
+4108,1088,2024-07-18,Delivered,325.91,"56 Dundas St, London, N6A 1A1, Canada",PayPal
+4109,1089,2024-08-14,Shipped,89.99,"89 Malop St, Geelong, 3220, Australia",Credit Card
+4110,1090,2024-09-06,Delivered,89.97,"12 Sögestraße, Bremen, 28195, Germany",Bank Transfer
+4111,1091,2024-05-30,Delivered,1339.91,"234 Peachtree St, Atlanta, 30301, USA",Credit Card
+4112,1092,2024-06-28,Delivered,161.93,"67 Market Square, Nottingham, NG1 1AA, UK",PayPal
+4113,1093,2024-07-24,Shipped,459.95,"890 Biscayne Blvd, Miami, 33101, USA",Credit Card
+4114,1094,2024-08-18,Delivered,49.98,"123 Albert St, Regina, S4P 0A1, Canada",Debit Card
+4115,1095,2024-09-10,Delivered,849.93,"456 Lake St, Cairns, 4870, Australia",Credit Card
+4116,1096,2024-10-05,Delivered,612.96,"78 Adenauerallee, Bonn, 53111, Germany",Bank Transfer
+4117,1097,2024-10-28,Cancelled,954.96,"90 Rue du 22 Novembre, Strasbourg, 67000, France",Credit Card
+4118,1098,2024-11-12,Delivered,769.89,"234 Ocean Blvd, Long Beach, 90801, USA",PayPal
+4119,1099,2024-06-14,Shipped,804.91,"567 Broadway, Oakland, 94601, USA",Credit Card
+4120,1100,2024-07-08,Delivered,788.88,"89 Trinity St, Coventry, CV1 1AA, UK",Debit Card
+4121,1001,2024-08-05,Delivered,1399.91,"123 Broadway, New York, 10001, USA",Credit Card
+4122,1002,2024-08-24,Delivered,1071.40,"45 Oxford St, London, SW1A 1AA, UK",PayPal
+4123,1003,2024-09-15,Shipped,79.99,"789 Sunset Blvd, Los Angeles, 90001, USA",Credit Card
+4124,1004,2024-10-06,Delivered,469.91,"56 King St, Toronto, M5H 2N2, Canada",Debit Card
+4125,1005,2024-10-28,Delivered,188.95,"88 George St, Sydney, 2000, Australia",Credit Card
+4126,1006,2024-11-10,Delivered,139.98,"12 Unter den Linden, Berlin, 10115, Germany",Bank Transfer
+4127,1007,2024-06-30,Delivered,1284.88,"23 Champs-Élysées, Paris, 75001, France",Credit Card
+4128,1008,2024-07-25,Shipped,1074.90,"456 Michigan Ave, Chicago, 60601, USA",PayPal
+4129,1009,2024-08-18,Delivered,408.94,"789 Main St, Houston, 77001, USA",Credit Card
+4130,1010,2024-09-11,Delivered,452.93,"34 Deansgate, Manchester, M1 1AD, UK",Debit Card
+4131,1011,2024-10-03,Delivered,1799.90,"567 Central Ave, Phoenix, 85001, USA",Credit Card
+4132,1012,2024-10-27,Delivered,209.97,"78 Granville St, Vancouver, V6B 1A1, Canada",PayPal
+4133,1013,2024-11-11,Shipped,434.94,"901 Collins St, Melbourne, 3000, Australia",Credit Card
+4134,1014,2024-06-12,Delivered,214.93,"45 Marienplatz, Munich, 80331, Germany",Bank Transfer
+4135,1015,2024-07-06,Delivered,209.95,"67 La Canebière, Marseille, 13001, France",Credit Card
+4136,1016,2024-08-02,Delivered,1263.91,"234 Market St, Philadelphia, 19101, USA",PayPal
+4137,1017,2024-08-29,Shipped,490.98,"345 Commerce St, San Antonio, 78201, USA",Credit Card
+4138,1018,2024-09-20,Delivered,259.98,"89 Briggate, Leeds, LS1 1BA, UK",Debit Card
+4139,1019,2024-10-12,Delivered,179.97,"678 Broadway, San Diego, 92101, USA",Credit Card
+4140,1020,2024-11-02,Delivered,179.97,"12 Stephen Ave, Calgary, T2P 0L1, Canada",PayPal
+4141,1021,2024-07-14,Shipped,224.94,"234 Queen St, Brisbane, 4000, Australia",Credit Card
+4142,1022,2024-08-08,Delivered,114.97,"56 Reeperbahn, Hamburg, 20095, Germany",Bank Transfer
+4143,1023,2024-09-01,Delivered,669.94,"78 Quai des Chartrons, Bordeaux, 33000, France",Credit Card
+4144,1024,2024-09-25,Delivered,332.95,"890 Elm St, Dallas, 75201, USA",PayPal
+4145,1025,2024-10-20,Shipped,924.94,"123 First St, San Jose, 95101, USA",Credit Card
+4146,1026,2024-11-08,Delivered,84.98,"45 Bull St, Birmingham, B1 1AA, UK",Debit Card
+4147,1027,2024-07-20,Delivered,624.88,"567 Congress Ave, Austin, 78701, USA",Credit Card
+4148,1028,2024-08-15,Delivered,904.87,"89 Rue Saint-Paul, Montreal, H2Y 1C6, Canada",PayPal
+4149,1029,2024-09-10,Shipped,279.96,"123 Hay St, Perth, 6000, Australia",Credit Card
+4150,1030,2024-10-02,Delivered,292.89,"45 Prager Straße, Dresden, 01067, Germany",Bank Transfer
+4151,1031,2024-07-28,Delivered,284.91,"567 Park St, Jacksonville, 32099, USA",Credit Card
+4152,1032,2024-08-22,Delivered,179.97,"89 Sauchiehall St, Glasgow, G1 1AA, UK",PayPal
+4153,1033,2024-09-16,Shipped,569.92,"234 Main St, Fort Worth, 76101, USA",Credit Card
+4154,1034,2024-10-10,Delivered,89.97,"45 Jasper Ave, Edmonton, T5J 0H3, Canada",Debit Card
+4155,1035,2024-11-03,Delivered,24.99,"78 Northbourne Ave, Canberra, 2600, Australia",Credit Card
+4156,1036,2024-07-15,Delivered,59.98,"12 Königstraße, Stuttgart, 70173, Germany",Bank Transfer
+4157,1037,2024-08-10,Delivered,56.97,"34 Rue Faidherbe, Lille, 59000, France",Credit Card
+4158,1038,2024-09-05,Shipped,59.98,"678 Broad St, Columbus, 43085, USA",PayPal
+4159,1039,2024-09-30,Delivered,1349.93,"890 Trade St, Charlotte, 28201, USA",Credit Card
+4160,1040,2024-10-25,Delivered,408.92,"45 Park St, Bristol, BS1 1AA, UK",Debit Card
+4161,1041,2024-07-05,Delivered,37.98,"123 Monument Circle, Indianapolis, 46201, USA",Credit Card
+4162,1042,2024-08-01,Delivered,1043.89,"56 Wellington St, Ottawa, K1A 0A6, Canada",PayPal
+4163,1043,2024-08-28,Shipped,164.97,"89 King William St, Adelaide, 5000, Australia",Credit Card
+4164,1044,2024-09-22,Delivered,364.95,"23 Hohe Straße, Cologne, 50667, Germany",Bank Transfer
+4165,1045,2024-10-16,Delivered,179.98,"45 Rue de la République, Lyon, 69001, France",Credit Card
+4166,1046,2024-11-06,Delivered,129.97,"789 Pike St, Seattle, 98101, USA",PayPal
+4167,1047,2024-07-18,Shipped,764.92,"567 16th St, Denver, 80201, USA",Credit Card
+4168,1048,2024-08-12,Delivered,239.97,"89 Bold St, Liverpool, L1 1AA, UK",Debit Card
+4169,1049,2024-09-07,Delivered,749.91,"234 Newbury St, Boston, 02101, USA",Credit Card
+4170,1050,2024-10-01,Delivered,56.97,"45 James St N, Hamilton, L8N 3Z1, Canada",PayPal
+4171,1051,2024-10-26,Shipped,1349.94,"78 Elizabeth St, Hobart, 7000, Australia",Credit Card
+4172,1052,2024-11-11,Delivered,83.97,"12 Zeil, Frankfurt, 60311, Germany",Bank Transfer
+4173,1053,2024-07-09,Delivered,569.93,"34 Promenade des Anglais, Nice, 06000, France",Credit Card
+4174,1054,2024-08-05,Delivered,625.89,"567 Broadway, Nashville, 37201, USA",PayPal
+4175,1055,2024-08-31,Shipped,399.98,"890 Mesa St, El Paso, 79901, USA",Credit Card
+4176,1056,2024-09-24,Delivered,1294.86,"45 Northumberland St, Newcastle, NE1 1AA, UK",Debit Card
+4177,1057,2024-10-18,Delivered,39.98,"123 Pennsylvania Ave, Washington, 20001, USA",Credit Card
+4178,1058,2024-11-09,Delivered,254.93,"56 Main St, Winnipeg, R3C 0A5, Canada",PayPal
+4179,1059,2024-07-22,Shipped,340.92,"89 Hunter St, Newcastle, 2300, Australia",Credit Card
+4180,1060,2024-08-16,Delivered,162.95,"12 Georgstraße, Hannover, 30159, Germany",Bank Transfer
+4181,1061,2024-09-11,Delivered,608.90,"345 Las Vegas Blvd, Las Vegas, 89101, USA",Credit Card
+4182,1062,2024-10-05,Delivered,118.95,"67 Princes St, Edinburgh, EH1 1AA, UK",PayPal
+4183,1063,2024-10-30,Shipped,239.97,"890 SW Broadway, Portland, 97201, USA",Credit Card
+4184,1064,2024-11-12,Delivered,279.98,"123 Government St, Victoria, V8W 1P8, Canada",Debit Card
+4185,1065,2024-07-30,Delivered,199.95,"456 Gold Coast Hwy, Gold Coast, 4217, Australia",Credit Card
+4186,1066,2024-08-25,Delivered,294.95,"78 Kettwiger Str, Essen, 45127, Germany",Bank Transfer
+4187,1067,2024-09-18,Delivered,1479.90,"90 Rue Crébillon, Nantes, 44000, France",Credit Card
+4188,1068,2024-10-12,Delivered,300.92,"234 Reno Ave, Oklahoma City, 73101, USA",PayPal
+4189,1069,2024-11-05,Shipped,549.90,"567 Main St, Louisville, 40201, USA",Credit Card
+4190,1070,2024-08-03,Delivered,208.96,"89 Fargate, Sheffield, S1 1AA, UK",Debit Card
+4191,1071,2024-08-30,Delivered,1845.89,"123 Wisconsin Ave, Milwaukee, 53201, USA",Credit Card
+4192,1072,2024-09-24,Delivered,50.97,"45 Queen St, Fredericton, E3B 1C4, Canada",PayPal
+4193,1073,2024-10-18,Shipped,102.96,"78 Mitchell St, Darwin, 0800, Australia",Credit Card
+4194,1074,2024-11-10,Delivered,835.91,"12 Westenhellweg, Dortmund, 44135, Germany",Bank Transfer
+4195,1075,2024-08-12,Delivered,465.92,"34 Rue d'Alsace, Toulouse, 31000, France",Credit Card
+4196,1076,2024-09-06,Delivered,403.88,"567 Central Ave, Albuquerque, 87101, USA",PayPal
+4197,1077,2024-09-30,Shipped,172.94,"890 Broadway, Tucson, 85701, USA",Credit Card
+4198,1078,2024-10-24,Delivered,69.98,"45 St Mary St, Cardiff, CF10 1AA, UK",Debit Card
+4199,1079,2024-11-11,Delivered,604.91,"123 Fulton St, Fresno, 93650, USA",Credit Card
+4200,1080,2024-08-20,Delivered,9.99,"56 Water St, St Johns, A1C 1A1, Canada",PayPal
+4201,1081,2024-09-14,Shipped,179.94,"89 Crown St, Wollongong, 2500, Australia",Credit Card
+4202,1082,2024-10-08,Delivered,279.90,"23 Karolinenstraße, Nuremberg, 90402, Germany",Bank Transfer
+4203,1083,2024-11-01,Delivered,369.94,"45 Rue Foch, Montpellier, 34000, France",Credit Card
+4204,1084,2024-08-28,Delivered,469.95,"678 K St, Sacramento, 94203, USA",PayPal
+4205,1085,2024-09-22,Shipped,45.99,"890 Main St, Mesa, 85201, USA",Credit Card
+4206,1086,2024-10-16,Delivered,119.98,"45 Above Bar St, Southampton, SO14 0AA, UK",Debit Card
+4207,1087,2024-11-07,Delivered,59.98,"123 Main St, Kansas City, 64101, USA",Credit Card
+4208,1088,2024-09-02,Delivered,468.92,"56 Dundas St, London, N6A 1A1, Canada",PayPal
+4209,1089,2024-09-26,Shipped,159.98,"89 Malop St, Geelong, 3220, Australia",Credit Card
+4210,1090,2024-10-20,Delivered,183.95,"12 Sögestraße, Bremen, 28195, Germany",Bank Transfer
+4211,1091,2024-09-08,Delivered,345.94,"234 Peachtree St, Atlanta, 30301, USA",Credit Card
+4212,1092,2024-10-03,Delivered,759.92,"67 Market Square, Nottingham, NG1 1AA, UK",PayPal
+4213,1093,2024-10-28,Shipped,379.98,"890 Biscayne Blvd, Miami, 33101, USA",Credit Card
+4214,1094,2024-11-12,Delivered,1169.91,"123 Albert St, Regina, S4P 0A1, Canada",Debit Card
+4215,1095,2024-09-16,Delivered,34.99,"456 Lake St, Cairns, 4870, Australia",Credit Card
+4216,1096,2024-10-10,Delivered,572.93,"78 Adenauerallee, Bonn, 53111, Germany",Bank Transfer
+4217,1097,2024-11-03,Delivered,18.99,"90 Rue du 22 Novembre, Strasbourg, 67000, France",Credit Card
+4218,1098,2024-09-20,Delivered,424.93,"234 Ocean Blvd, Long Beach, 90801, USA",PayPal
+4219,1099,2024-10-14,Shipped,89.98,"567 Broadway, Oakland, 94601, USA",Credit Card
+4220,1100,2024-11-06,Delivered,684.86,"89 Trinity St, Coventry, CV1 1AA, UK",Debit Card
+4221,1001,2024-09-12,Delivered,289.94,"123 Broadway, New York, 10001, USA",Credit Card
+4222,1002,2024-10-04,Delivered,327.93,"45 Oxford St, London, SW1A 1AA, UK",PayPal
+4223,1003,2024-10-28,Shipped,294.96,"789 Sunset Blvd, Los Angeles, 90001, USA",Credit Card
+4224,1004,2024-11-11,Delivered,299.97,"56 King St, Toronto, M5H 2N2, Canada",Debit Card
+4225,1005,2024-09-18,Delivered,382.88,"88 George St, Sydney, 2000, Australia",Credit Card
+4226,1006,2024-10-09,Delivered,484.90,"12 Unter den Linden, Berlin, 10115, Germany",Bank Transfer
+4227,1007,2024-11-01,Delivered,454.92,"23 Champs-Élysées, Paris, 75001, France",Credit Card
+4228,1008,2024-09-24,Shipped,519.94,"456 Michigan Ave, Chicago, 60601, USA",PayPal
+4229,1009,2024-10-16,Delivered,89.98,"789 Main St, Houston, 77001, USA",Credit Card
+4230,1010,2024-11-08,Delivered,1199.97,"34 Deansgate, Manchester, M1 1AD, UK",Debit Card
+4231,1011,2024-09-28,Delivered,608.91,"567 Central Ave, Phoenix, 85001, USA",Credit Card
+4232,1012,2024-10-22,Delivered,554.95,"78 Granville St, Vancouver, V6B 1A1, Canada",PayPal
+4233,1013,2024-11-12,Shipped,404.94,"901 Collins St, Melbourne, 3000, Australia",Credit Card
+4234,1014,2024-10-01,Delivered,634.91,"45 Marienplatz, Munich, 80331, Germany",Bank Transfer
+4235,1015,2024-10-26,Delivered,416.91,"67 La Canebière, Marseille, 13001, France",Credit Card
+4236,1016,2024-11-10,Delivered,79.98,"234 Market St, Philadelphia, 19101, USA",PayPal
+4237,1017,2024-10-05,Shipped,954.90,"345 Commerce St, San Antonio, 78201, USA",Credit Card
+4238,1018,2024-10-30,Delivered,548.92,"89 Briggate, Leeds, LS1 1BA, UK",Debit Card
+4239,1019,2024-11-13,Delivered,1499.97,"678 Broadway, San Diego, 92101, USA",Credit Card
+4240,1020,2024-10-12,Delivered,641.89,"12 Stephen Ave, Calgary, T2P 0L1, Canada",PayPal
+4241,1021,2024-11-04,Shipped,89.97,"234 Queen St, Brisbane, 4000, Australia",Credit Card
+4242,1022,2024-10-18,Delivered,220.94,"56 Reeperbahn, Hamburg, 20095, Germany",Bank Transfer
+4243,1023,2024-11-09,Delivered,354.94,"78 Quai des Chartrons, Bordeaux, 33000, France",Credit Card
+4244,1024,2024-10-24,Delivered,804.96,"890 Elm St, Dallas, 75201, USA",PayPal
+4245,1025,2024-11-11,Shipped,563.91,"123 First St, San Jose, 95101, USA",Credit Card
+4246,1026,2024-10-15,Delivered,314.93,"45 Bull St, Birmingham, B1 1AA, UK",Debit Card
+4247,1027,2024-11-06,Delivered,739.90,"567 Congress Ave, Austin, 78701, USA",Credit Card
+4248,1028,2024-10-20,Delivered,1199.93,"89 Rue Saint-Paul, Montreal, H2Y 1C6, Canada",PayPal
+4249,1029,2024-11-12,Shipped,269.97,"123 Hay St, Perth, 6000, Australia",Credit Card
+4250,1030,2024-10-27,Delivered,1610.86,"45 Prager Straße, Dresden, 01067, Germany",Bank Transfer
